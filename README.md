@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrmus054
+- 👋 Hi, I’m Patryk Musiol
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on interesting projets
